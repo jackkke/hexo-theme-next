@@ -670,8 +670,8 @@ gitalk:
   enable: true
   github_id: jackkke # Github repo owner
   repo: gitPagesTalk # Repository name to store issues
-  client_id: a687777f02ec551a31dc # Github Application Client ID
-  client_secret: 9527bc4b4ffd82f68ac93429319d689d62003a32 # Github Application Client Secret
+  client_id: 54f3a1fd3d7ae78c2d41 # Github Application Client ID
+  client_secret: 8540cf736bc363775087a306d073a3286119b81a # Github Application Client Secret
   admin_user: jackkke # GitHub repo owner and collaborators, only these guys can initialize github issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
